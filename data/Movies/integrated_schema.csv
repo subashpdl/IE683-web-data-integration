@@ -1,0 +1,19 @@
+﻿Class name;Attribute name;Attribute type;Datasets in which the attribute is found
+movie;genre;list[string];IMDB Movies, Netflix Movies, Streaming Movies
+movie;title;string;IMDB Movies, Netflix Movies, Streaming Movies
+movie;actor names;list[string];IMDB Movies, Netflix Movies
+movie;release year;IMDB Movies, Netflix Movies, Streaming Movies
+movie;director;list[string];IMDB Movies, Netflix Movies(MV), Streaming Movies
+movie;duration;integer;IMDB Movies, Netflix Movies, Streaming Movies
+movie;language;list[string];IMDB Movies, Netflix Movies, Streaming Movies
+movie;imdb votes;integer;IMDB Movies, Netflix Movies
+movie;production company;list[string];IMDB Movies, Netflix Movies
+movie;imdb score;real;IMDB Movies, Netflix Movies
+movie;writer;list[string];IMDB Movies, Netflix Movies
+movie;avg vote;real;IMDB Movies, Streaming Movies
+movie;country;list[string];IMDB Movies, Streaming Movies
+movie;budget;integer;IMDB Movies(MV), Netflix Movies
+movie;original title, reviews from critics, reviews from users, title id;string, integer, integer, string;IMDB Movies
+movie;country availability, hidden gem score, image, imdb link, netflix link, netflix release date, poster, series or movie, tags;list[string], real, string, string, string, date, string, string, list[string];Netflix Movies
+movie;disney flag, hulu flag, netflix flag, prime video flag;boolean, boolean, boolean, boolean;Streaming Movies
+movie;id;list[string];IMDB Movies, Netflix Movies, Streaming Movies

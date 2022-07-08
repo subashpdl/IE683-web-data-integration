@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<movies>
+    <movie>
+        <id>netflix_8151</id> 
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+       <title>Main Aurr Mrs Khanna</title>
+        <actors>
+            <actor_names>Salman Khan</actor_names>
+            <actor_names>Kareena Kapoor</actor_names>
+            <actor_names>Sohail Khan</actor_names>
+            <actor_names>Preity Zinta</actor_names>
+            <actor_names>Bappi Lahiri</actor_names>
+            <actor_names>Yash Tonk</actor_names>
+            <actor_names>Nauheed Cyrusi</actor_names>
+            <actor_names>Mahek Chahal</actor_names>
+            <actor_names>James Crabtree</actor_names>
+        </actors>
+        <release_year>2009</release_year>
+        <directors>
+            <director>Prem Soni</director>
+        </directors>
+        <duration>109.0</duration>
+        <languages>
+            <language>Hindi</language>
+        </languages>
+	  <countries>
+            <country>India</country>
+        </countries>
+        <imdb_votes>2696.0</imdb_votes>
+        <production_companies>
+            <production_company>Sohail Khan Production</production_company>
+        </production_companies>
+        <imdb_score>3.5</imdb_score>
+        <writers>
+            <writer>Prem Soni</writer>
+            <writer>Suzanne D'Mello</writer>
+            <writer>Jalees Sherwani</writer>
+            <writer>Arun Bhairav</writer>
+            <writer>Junaid Wasi</writer>
+        </writers>
+       </movie>
+	<movie>
+        <id>netflix_6875</id>
+        <genres>
+            <genre>Action</genre>
+            <genre>Thriller</genre>
+        </genres>
+       <title>Sigaram Thodu</title>
+        <actors>
+            <actor_names>Vikram Prabhu</actor_names>
+            <actor_names>Sathyaraj</actor_names>
+            <actor_names>Monal Gajjar</actor_names>
+            <actor_names>Gaurav Narayanan</actor_names>
+            <actor_names>Sathish</actor_names>
+            <actor_names>Erode Mahesh</actor_names>
+            <actor_names>Saran Deep</actor_names>
+            <actor_names>Vijay Raj</actor_names>
+            <actor_names>Kovai Sarala</actor_names>
+            <actor_names>Pandu</actor_names>
+            <actor_names>Singampuli</actor_names>
+            <actor_names>Kalyanamalai Mohan</actor_names>
+            <actor_names>Balakrishnan</actor_names>
+            <actor_names>Nishanth</actor_names>
+            <actor_names>Swaminathan</actor_names>
+        </actors>
+        <release_year>2014</release_year>
+        <directors>
+            <director>Gaurav Narayanan</director>
+        </directors>
+        <duration>147</duration>
+        <languages>
+            <language>Tamil</language>
+        </languages>
+	  <countries>
+            <country>India</country>
+        </countries>
+        <imdb_votes>411.0</imdb_votes>
+        <production_companies>
+            <production_company>UTV Motion Pictures</production_company>
+        </production_companies>
+        <imdb_score>6.2</imdb_score>
+        <writers>
+            <writer>Gaurav Narayanan</writer>
+        </writers>
+       </movie>
+	<movie>
+        <id>netflix_9584</id>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+       <title>Buster's Mal Heart</title>
+        <actors>
+            <actor_names>Rami Malek</actor_names>
+            <actor_names>DJ Qualls</actor_names>
+            <actor_names>Kate Lyn Sheil</actor_names>
+            <actor_names>Sukha Belle Potter</actor_names>
+            <actor_names>Toby Huss</actor_names>
+            <actor_names>Lin Shaye</actor_names>
+            <actor_names>Mark Kelly</actor_names>
+            <actor_names>Bruce Bundy</actor_names>
+            <actor_names>Teresa Yenque</actor_names>
+            <actor_names>Jared Larson</actor_names>
+            <actor_names>Sandra Ellis Lafferty</actor_names>
+            <actor_names>Nicholas Pryor</actor_names>
+            <actor_names>R.J. Burns</actor_names>
+            <actor_names>Gabriel Clark</actor_names>
+            <actor_names>Lily Gladstone</actor_names>
+        </actors>
+        <release_year>2016</release_year>
+        <directors>
+            <director>Sarah Adina Smith</director>
+        </directors>
+        <duration>96.0</duration>
+        <languages>
+            <language>English</language>
+            <language>Spanish</language>
+        </languages>
+	  <countries>
+            <country>USA</country>
+        </countries>
+        <imdb_votes>8604.0</imdb_votes>
+        <production_companies>
+            <production_company>Snowfort Pictures</production_company>
+            <production_company>Everything Is Everything</production_company>
+        </production_companies>
+        <imdb_score>6.1</imdb_score>
+        <writers>
+            <writer>Sarah Adina Smith</writer>
+        </writers>
+       </movie>
+	<movie>
+        <id>netflix_3382</id>
+        <genres>
+            <genre>Sport</genre>
+        </genres>
+       <title>Bennett's War</title>
+        <actors>
+            <actor_names>Michael Roark</actor_names>
+            <actor_names>Ali Afshar</actor_names>
+            <actor_names>Allison Paige</actor_names>
+            <actor_names>Brando Eaton</actor_names>
+            <actor_names>Hunter Clowdus</actor_names>
+            <actor_names>Tony Panterra</actor_names>
+            <actor_names>Trace Adkins</actor_names>
+            <actor_names>Michael King</actor_names>
+            <actor_names>Oliver Zorko</actor_names>
+            <actor_names>Orlando Zorko</actor_names>
+            <actor_names>Justin Ebelt</actor_names>
+            <actor_names>Violet McGraw</actor_names>
+            <actor_names>Taylor Kalupa</actor_names>
+            <actor_names>Dave Arnold</actor_names>
+            <actor_names>Philip Paz</actor_names>
+        </actors>
+        <release_year>2019</release_year>
+        <directors>
+            <director>Alex Ranarivelo</director>
+        </directors>
+        <duration>94.0</duration>
+        <languages>
+            <language>English</language>
+        </languages>
+	  <countries>
+            <country>USA</country>
+        </countries>
+        <imdb_votes>594.0</imdb_votes>
+        <production_companies>
+            <production_company>ESX Entertainment</production_company>
+        </production_companies>
+        <imdb_score>5.9</imdb_score>
+        <writers>
+            <writer>Alex Ranarivelo</writer>
+        </writers>
+       </movie>
+	<movie>
+        <id>netflix_3514</id>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+       <title>Boushkash</title>
+        <actors>
+            <actor_names>Mohammed Saad</actor_names>
+            <actor_names>Zeina</actor_names>
+            <actor_names>Ezzat Abu Auf</actor_names>
+            <actor_names>Edward</actor_names>
+            <actor_names>Hasan Husni</actor_names>
+            <actor_names>Ahmed Rateb</actor_names>
+            <actor_names>Hamdi el Sakhawy</actor_names>
+            <actor_names>Safaa El Toukhy</actor_names>
+            <actor_names>Youssef Fawzi</actor_names>
+            <actor_names>Magdy Edris</actor_names>
+            <actor_names>Shams</actor_names>
+            <actor_names>Saeed Tarabek</actor_names>
+            <actor_names>Ahmed El-Tuhami</actor_names>
+        </actors>
+        <release_year>2008</release_year>
+        <directors>
+            <director>Hazem Fouda</director>
+            <director>Ahmed Yousry</director>
+        </directors>
+        <duration>120</duration>
+        <languages>
+            <language>Arabic</language>
+        </languages>
+	  <countries>
+            <country>Egypt</country>
+        </countries>
+        <imdb_votes>725.0</imdb_votes>
+        <production_companies>
+            <production_company>Karim ElSobky</production_company>
+        </production_companies>
+        <imdb_score>5.1</imdb_score>
+        <writers>
+            <writer>Ahmed Fahmy</writer>
+        </writers>
+       </movie>
+	<movie>
+        <id>netflix_7951</id>
+        <genres>
+            <genre>Comedy</genre>
+        </genres>
+       <title>Miranda Sings Live... Your Welcome</title>
+        <actors>
+            <actor_names>Colleen Ballinger</actor_names>
+            <actor_names>Erik Stocklin</actor_names>
+        </actors>
+        <release_year>2019</release_year>
+        <directors>
+            <director>Marcus Raboy</director>
+        </directors>
+        <duration>61</duration>
+        <languages>
+            <language>English</language>
+        </languages>
+	  <countries>
+            <country>USA</country>
+        </countries>
+        <imdb_votes>366.0</imdb_votes>
+        <production_companies>
+            <production_company>The Gersh Agency</production_company>
+        </production_companies>
+        <imdb_score>5.6</imdb_score>
+       </movie>
+	<movie>
+        <id>netflix_9602</id>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Horror</genre>
+        </genres>
+       <title>KL Zombi</title>
+        <actors>
+            <actor_names>Zizan Razak</actor_names>
+            <actor_names>Siti Saleha</actor_names>
+            <actor_names>Izara Aishah</actor_names>
+            <actor_names>Fauziah Ahmad Daud</actor_names>
+            <actor_names>Iedil Dzuhrie Alaudin</actor_names>
+            <actor_names>Fadzli Daniel Ali</actor_names>
+            <actor_names>Arami Amin</actor_names>
+            <actor_names>Devan</actor_names>
+            <actor_names>Elai Faezah</actor_names>
+            <actor_names>Zain Hamid</actor_names>
+            <actor_names>Buzen Hashim</actor_names>
+            <actor_names>Afiq Izzudin</actor_names>
+            <actor_names>Yus Jambu</actor_names>
+            <actor_names>Ching Miau Lim</actor_names>
+            <actor_names>Khir Rahman</actor_names>
+        </actors>
+        <release_year>2013</release_year>
+        <directors>
+            <director>Ming Jin Woo</director>
+        </directors>
+        <duration>97</duration>
+        <languages>
+            <language>Malay</language>
+        </languages>
+	  <countries>
+            <country>Malaysia</country>
+        </countries>
+        <production_companies>
+            <production_company>Grand Brilliance</production_company>
+        </production_companies>
+        <imdb_votes>251.0</imdb_votes>
+        <imdb_score>4.4</imdb_score>
+        <writers>
+            <writer>Adib Zaini</writer>
+        </writers>
+       </movie>
+	<movie>
+        <id>netflix_9241</id>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+       <title>Peepli [Live]</title>
+        <actors>
+            <actor_names>Omkar Das Manikpuri</actor_names>
+            <actor_names>Raghuvir Yadav</actor_names>
+            <actor_names>Shalini Vatsa</actor_names>
+            <actor_names>Farrukh Jaffar</actor_names>
+            <actor_names>Malaika Shenoy</actor_names>
+            <actor_names>Vishal Om Prakash</actor_names>
+            <actor_names>Nawazuddin Siddiqui</actor_names>
+            <actor_names>Sitaram Panchal</actor_names>
+            <actor_names>Naseeruddin Shah</actor_names>
+            <actor_names>Aamir Bashir</actor_names>
+            <actor_names>Pravin Singh Sisodia</actor_names>
+            <actor_names>Masood Akhtar</actor_names>
+            <actor_names>Maxima Basu</actor_names>
+            <actor_names>Sakshi Bhatia</actor_names>
+            <actor_names>Avijit Dutt</actor_names>
+        </actors>
+        <release_year>2010</release_year>
+        <directors>
+            <director>Anusha Rizvi</director>
+            <director>Mahmood Farooqui</director>
+        </directors>
+        <duration>95</duration>
+        <languages>
+            <language>Hindi</language>
+            <language>English</language>
+        </languages>
+	  <countries>
+            <country>India</country>
+        </countries>
+        <production_companies>
+            <production_company>Aamir Khan Productions</production_company>
+        </production_companies>
+        <imdb_votes>11826.0</imdb_votes>
+        <imdb_score>7.4</imdb_score>
+        <writers>
+            <writer>Swanand Kirkire</writer>
+            <writer>Gangaram Sakhet</writer>
+            <writer>Noon Meem Rashet</writer>
+            <writer>Bhadwai</writer>
+            <writer>Anusha Rizvi</writer>
+            <writer>Sanjeev Sharma</writer>
+        </writers>
+       </movie>
+	<movie>
+        <id>netflix_41</id>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+        </genres>
+        <title>Trial by Fire</title>
+        <actors>
+            <actor_names>Jack O'Connell</actor_names>
+            <actor_names>Laura Dern</actor_names>
+            <actor_names>Emily Meade</actor_names>
+            <actor_names>Chris Coy</actor_names>
+            <actor_names>Jeff Perry</actor_names>
+            <actor_names>McKinley Belcher III</actor_names>
+            <actor_names>David Wilson Barnes</actor_names>
+            <actor_names>Darren Pettie</actor_names>
+            <actor_names>Blake Scott Lewis</actor_names>
+            <actor_names>Jade Pettyjohn</actor_names>
+            <actor_names>Noah Lomax</actor_names>
+            <actor_names>Jason Douglas</actor_names>
+            <actor_names>Carlos G&#243;mez</actor_names>
+            <actor_names>Anthony Reynolds</actor_names>
+            <actor_names>Katie McClellan</actor_names>
+        </actors>
+        <release_year>2018</release_year>
+        <directors>
+            <director>Edward Zwick</director>
+        </directors>
+        <duration>127</duration>
+        <languages>
+            <language>English</language>
+        </languages>
+	  <countries>
+            <country>USA</country>
+        </countries>
+        <production_companies>
+            <production_company>Flashlight Films</production_company>
+        </production_companies>
+        <imdb_votes>3657.0</imdb_votes>
+        <imdb_score>6.9</imdb_score>
+        <writers>
+            <writer>Geoffrey Fletcher</writer>
+            <writer>David Grann</writer>
+        </writers>
+       </movie>
+	<movie>
+        <id>netflix_85</id>
+        <genres>
+            <genre>Thriller</genre>
+        </genres>
+        <title>Blood Orange</title>
+        <actors>
+            <actor_names>Kacey Clarke</actor_names>
+            <actor_names>Iggy Pop</actor_names>
+            <actor_names>Antonio Magro</actor_names>
+            <actor_names>Ben Lamb</actor_names>
+        </actors>
+        <release_year>2016</release_year>
+        <directors>
+            <director>Toby Tobias</director>
+        </directors>
+        <duration>85</duration>
+        <languages>
+            <language>English</language>
+        </languages>
+	  <countries>
+            <country>UK</country>
+            <country>Spain</country>
+        </countries>
+        <production_companies>
+            <production_company>Lightworks Film</production_company>
+        </production_companies>
+        <imdb_votes>742.0</imdb_votes>
+        <imdb_score>4.3</imdb_score>
+        <writers>
+            <writer>Toby Tobias</writer>
+        </writers>
+       </movie>
+	<movie>
+        <id>netflix_122</id>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <title>Burden</title>
+        <actors>
+            <actor_names>Garrett Hedlund</actor_names>
+            <actor_names>Andrea Riseborough</actor_names>
+            <actor_names>Forest Whitaker</actor_names>
+            <actor_names>Tom Wilkinson</actor_names>
+            <actor_names>Usher Raymond</actor_names>
+            <actor_names>Crystal Fox</actor_names>
+            <actor_names>Austin H&#233;bert</actor_names>
+            <actor_names>Dexter Darden</actor_names>
+            <actor_names>Taylor Gregory</actor_names>
+            <actor_names>Tia Hendricks</actor_names>
+            <actor_names>Devin Bright</actor_names>
+            <actor_names>Joshua Burge</actor_names>
+            <actor_names>Tess Harper</actor_names>
+            <actor_names>Anna Colwell</actor_names>
+            <actor_names>Bryan Hibbard</actor_names>
+        </actors>
+        <release_year>2018</release_year>
+        <directors>
+            <director>Andrew Heckler</director>
+        </directors>
+        <duration>117</duration>
+        <languages>
+            <language>English</language>
+        </languages>
+	  <countries>
+            <country>USA</country>
+        </countries>
+        <production_companies>
+            <production_company>Bill Kenwright Films</production_company>
+        </production_companies>
+        <imdb_votes>1814.0</imdb_votes>
+        <imdb_score>6.6</imdb_score>
+        <writers>
+            <writer>Andrew Heckler</writer>
+        </writers>
+       </movie>
+	<movie>
+        <id>netflix_312</id>
+        <genres>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+            <genre>Horror</genre>
+        </genres>
+        <title>The Battery</title>
+        <actors>
+            <actor_names>Jeremy Gardner</actor_names>
+            <actor_names>Adam Cronheim</actor_names>
+            <actor_names>Niels Bolle</actor_names>
+            <actor_names>Alana O'Brien</actor_names>
+            <actor_names>Jamie Pantanella</actor_names>
+            <actor_names>Larry Fessenden</actor_names>
+            <actor_names>Kelly McQuade</actor_names>
+            <actor_names>Eric Simon</actor_names>
+            <actor_names>Ben Pryzby</actor_names>
+            <actor_names>Sarah Allen</actor_names>
+            <actor_names>Nichole Kinnett</actor_names>
+            <actor_names>Lyles Williams IV</actor_names>
+            <actor_names>Olivia Bonilla</actor_names>
+            <actor_names>Elise Stella</actor_names>
+            <actor_names>Matt Bacco</actor_names>
+        </actors>
+        <release_year>2012</release_year>
+        <directors>
+            <director>Jeremy Gardner</director>
+        </directors>
+        <duration>101</duration>
+        <languages>
+            <language>English</language>
+        </languages>
+	  <countries>
+            <country>USA</country>
+        </countries>
+        <production_companies>
+            <production_company>O. Hannah Films</production_company>
+        </production_companies>
+        <imdb_votes>8655.0</imdb_votes>
+        <imdb_score>6.4</imdb_score>
+        <writers>
+            <writer>Jeremy Gardner</writer>
+        </writers>
+       </movie>
+	<movie>
+        <id>netflix_364</id>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <title>Beneath Clouds</title>
+        <actors>
+            <actor_names>Dannielle Hall</actor_names>
+            <actor_names>Damian Pitt</actor_names>
+            <actor_names>Jenna Lee Connors</actor_names>
+            <actor_names>Terry Dahlstron</actor_names>
+            <actor_names>Wayne Dargin</actor_names>
+            <actor_names>Shane Dargin</actor_names>
+            <actor_names>Marshall Bell</actor_names>
+            <actor_names>Aaron Robinson</actor_names>
+            <actor_names>Mundurra Weldon</actor_names>
+            <actor_names>Athol French</actor_names>
+            <actor_names>Jamalla Carr</actor_names>
+            <actor_names>Samuel Barker</actor_names>
+            <actor_names>Ben Paparo</actor_names>
+            <actor_names>Lila Fisher</actor_names>
+            <actor_names>Kevin Pitt</actor_names>
+        </actors>
+        <release_year>2002</release_year>
+        <directors>
+            <director>Ivan Sen</director>
+        </directors>
+        <duration>90</duration>
+        <languages>
+            <language>English</language>
+        </languages>
+	  <countries>
+            <country>Australia</country>
+        </countries>
+        <production_companies>
+            <production_company>Australian Film Finance Corporation (AFFC)</production_company>
+		<production_company>Axiom Films</production_company>
+        </production_companies>
+        <imdb_votes>954.0</imdb_votes>
+        <imdb_score>7.0</imdb_score>
+        <writers>
+            <writer>Ivan Sen</writer>
+        </writers>
+       </movie>
+	<movie>
+        <id>netflix_408</id>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <title>Recall</title>
+        <actors>
+            <actor_names>Michael James Regan</actor_names>
+            <actor_names>Tommy James Murphy</actor_names>
+            <actor_names>Louis Di Bianco</actor_names>
+            <actor_names>Stefano DiMatteo</actor_names>
+            <actor_names>Juan Carlos Velis</actor_names>
+            <actor_names>Katriina Isberg</actor_names>
+            <actor_names>Danny Bruzzi</actor_names>
+            <actor_names>Eugene Clark</actor_names>
+            <actor_names>Ronnie Rowe</actor_names>
+            <actor_names>Brendee Green</actor_names>
+            <actor_names>A.C. Peterson</actor_names>
+            <actor_names>Brian Christopher</actor_names>
+            <actor_names>Allison Brennan</actor_names>
+            <actor_names>Katie Uhlmann</actor_names>
+            <actor_names>Andre Sills</actor_names>
+        </actors>
+        <release_year>2017</release_year>
+        <directors>
+            <director>Michael James Regan</director>
+        </directors>
+        <duration>73</duration>
+        <languages>
+            <language>English</language>
+        </languages>
+	  <countries>
+            <country>Canada</country>
+        </countries>
+        <production_companies>
+            <production_company>Backlash Pictures</production_company>
+        </production_companies>
+        <imdb_votes>234.0</imdb_votes>
+        <imdb_score>2.9</imdb_score>
+        <writers>
+            <writer>Michael James Regan</writer>
+            <writer>Andy Sechi</writer>
+            <writer>Tommy James Murphy</writer>
+        </writers>
+       </movie>
+	<movie>
+        <id>netflix_461</id>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+        </genres>
+        <title>Under the Silver Lake</title>
+        <actors>
+            <actor_names>Andrew Garfield</actor_names>
+            <actor_names>Wendy Vanden Heuvel</actor_names>
+            <actor_names>Deborah Geffner</actor_names>
+            <actor_names>Riley Keough</actor_names>
+            <actor_names>Riki Lindhome</actor_names>
+            <actor_names>Jeannine Cota</actor_names>
+            <actor_names>Chris Gann</actor_names>
+            <actor_names>Callie Hernandez</actor_names>
+            <actor_names>Jessica Makinson</actor_names>
+            <actor_names>Reese Hartwig</actor_names>
+            <actor_names>Izzie Coffey</actor_names>
+            <actor_names>Kayla DiVenere</actor_names>
+            <actor_names>Tucker Meek</actor_names>
+            <actor_names>Sky Elobar</actor_names>
+            <actor_names>Stephanie Moore</actor_names>
+        </actors>
+        <release_year>2018</release_year>
+        <directors>
+            <director>David Robert Mitchell</director>
+        </directors>
+        <duration>139</duration>
+        <languages>
+            <language>English</language>
+        </languages>
+	  <countries>
+            <country>USA</country>
+        </countries>
+        <production_companies>
+            <production_company>Salem Street Entertainment</production_company>
+            <production_company>A24</production_company>
+            <production_company>Pastel</production_company>
+            <production_company>Vendian Entertainment</production_company>
+            <production_company>Mongrel Media</production_company>
+        </production_companies>
+        <imdb_votes>33843.0</imdb_votes>
+        <imdb_score>6.5</imdb_score>
+        <writers>
+            <writer>David Robert Mitchell</writer>
+        </writers>
+       </movie>
+    </movies>
